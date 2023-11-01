@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" type="image/png" sizes="32x32" href="imagenes/favicon.png">
+    <title>Color RGB</title>
+  </head>
+
+  <body>
+      <div class="contenedor-principal">
+        <div class="contenedor-interno">
+          <div class="color">
+            <label for="Rojo">Rojo (R)</label>
+            <input type="range" min="0" max="255" step="1" value="23" id="Rojo">
+            <p id="texto-rojo"></p>
+          </div>
+          <div class="color">
+            <label for="Verde">Verde (G)</label>
+            <input type="range" min="0" max="255" step="1" value="41" id="Verde">
+            <p id="texto-verde"></p>
+          </div>
+          <div class="color">
+            <label for="Azul">Azul (B)</label>
+            <input type="range" min="0" max="255" step="1" value="56" id="Azul">
+            <p id="texto-azul"></p>
+          </div>
+        </div>
+      </div>
+      <script src="app.js"></script>
+  </body>
+</html>
