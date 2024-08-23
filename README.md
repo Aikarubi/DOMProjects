@@ -53,7 +53,7 @@ Proyecto para practicar la manipulación del DOM, donde se puede seleccionar dif
 
 ## **📚 Recursos Adicionales**
 
-- 📹[Enlace al tutorial de YouTube sobre manipulación del DOM](https://youtu.be/koiPxFFiqJ4?si=0wtqaUi6fPCb5jqp)
-- 📄[Documentación de MDN sobre el DOM](https://developer.mozilla.org/es/docs/Web/API/Document_Object_Model)
+-📹 [Enlace al tutorial de YouTube sobre manipulación del DOM](https://youtu.be/koiPxFFiqJ4?si=0wtqaUi6fPCb5jqp)
+-📄 [Documentación de MDN sobre el DOM](https://developer.mozilla.org/es/docs/Web/API/Document_Object_Model)
 
 
