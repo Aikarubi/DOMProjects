@@ -7,7 +7,7 @@ Pequeños proyectos desarrollados en JavaScript para practicar la manipulación 
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/usuario/proyecto.git
+   git clone https://github.com/Aikarubi/DOMProjects.git
 
 2. Ejecuta el archivo **index.html** para visualizar el proyecto en tu navegador.
 ## **📜 Citas Aleatorias**
